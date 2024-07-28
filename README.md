@@ -27,7 +27,7 @@ This project aims to simplify the process of generating MCQs from a given text o
 - pandas for data manipulation
 
 ## Usage
-1. Clone the repository: git clone https://github.com/your-username/mcq-generator.git
+1. Clone the repository: git clone https://github.com/sudeepjoelbayyee/MCQ-Generator-Using-Gemini
 2. Install the required dependencies: pip install -r requirements.txt
 3. Run the application: streamlit run app.py
 4. Upload a PDF or text file, specify the number of MCQs, subject, and complexity level
